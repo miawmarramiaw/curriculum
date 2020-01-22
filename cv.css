@@ -1,0 +1,163 @@
+
+body { 
+    margin: 0;
+    font-family:Lucida Sans Unicode;
+    color:#031012;
+    background-color:#dedede;
+}
+
+
+#warp	{ 
+    width:830px; 
+    height: 1130.500px;
+    margin:0 auto; 
+    background-color:#f5f5f5;
+    box-shadow:0px 0px 3px 3px #ccc;
+} 
+
+header#top { 
+    width:220px; 
+    padding:5px; 
+    background-color:#1a9292; 
+    display: inline-block;
+}
+
+header#top h1 { 
+    text-align: center;
+    color:#ffffff;
+    font-size: 1.3em; 
+}
+
+header#top h2 { 
+    text-align: center;
+    font-size: 1em; 
+    color:#ffffff; 
+}
+
+.centrado{
+    margin:10px 50px;
+    display:block;
+}
+
+.centrado_linea{
+    margin:0px 30px;
+    display:block;
+}
+
+main { 
+    float: right ;
+    width: 545px;
+    padding: 30px 5px 30px 50px;
+    background-color:#ffffff; 
+    
+
+}
+
+
+
+
+h3{ 
+    font-size: 1.1em; 
+    padding: 0px 0px 0px 0px;
+    color:#1a9292;
+}
+
+h4{ 
+    font-weight: bold;
+    font-size: 0.9em; 
+    color:#000000;
+    
+}
+
+
+h5{ 
+    font-weight: bold;
+    font-size: 1.05em; 
+    color:#ffffff;
+    padding: 20px 5px 10px 70px;
+    
+}
+
+h6{ 
+    font-weight: bold;
+    font-size: 1.05em; 
+    color:#ffffff;
+    padding: 0px 5px 00px 55px;
+    
+}
+
+
+.section4-5 { 
+    width: 200px;
+    display: inline-block;
+}
+
+p{ 
+    
+    font-size: 0.9em; 
+    color:#242424;
+}
+
+
+ul{ 
+    padding: 0px 5px 0px 15px;
+    font-size: 0.9em;
+}
+
+.ul_idiom{ 
+    padding: 0px 300px 0px 15px;
+    display: inline-block;
+    font-size: 0.9em;
+}
+
+.li-idiom { 
+    display: list-item;
+    text-align: -webkit-match-parent;
+    display: inline-block;
+}
+
+.img-idiom { 
+    display: inline-block;
+    margin: 0px 10px 0px 35px;
+}
+
+.img-idiom2 { 
+    display: inline-block;
+    margin: 0px 10px 0px 160px;
+}
+
+.img-idiom3 { 
+    display: inline-block;
+    margin: 0px 10px 0px 173px;
+}
+
+.img-idiom4 { 
+    display: inline-block;
+    margin: 0px 10px 0px 160px;
+}
+
+figcaption { 
+    display: inline-block;
+    font-weight: bold;
+    color:#1a9292;
+    font-size: 0.8em; 
+    
+}
+
+
+aside{ 
+    width:230px; 
+    height: 840px;
+    background-color:#1a9292; 
+    margin: -29px 10px 0px 0px;
+    display: block;
+}
+
+.p-aside { 
+    color:#ffffff;
+    font-size: 0.9em; 
+    padding: 0px 5px 10px 40px;
+}
+
+
+
