@@ -1,4 +1,2 @@
 # curriculum
-# CV
-# CV
-# CV
+
